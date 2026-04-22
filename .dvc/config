@@ -1,0 +1,5 @@
+[core]
+    remote = r2remote
+['remote "r2remote"']
+    url = s3://jobpool-listings
+    endpointurl = https://693267d87af9eeb4add18302053799bd.r2.cloudflarestorage.com
