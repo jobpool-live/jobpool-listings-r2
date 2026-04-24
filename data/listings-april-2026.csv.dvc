@@ -1,13 +1,9 @@
 outs:
-  - md5: 8ce0c26593b4bf71ea971f8d1188d89f
-    size: 8369775
+  - md5: f47c5fad70c4638a976dea89a314bd14
+    size: 9682784
     hash: md5
     path: https://pub-e2c96b2fef074ee0809919335319632f.r2.dev/listings-april-2026.csv
     meta:
       changed_on: "2026-04-24"
       contributors:
         - "jobpoolbot1.0"
-        - "giselle"
-        - "mah.produce1"
-        - "ryanmteli3"
-        - "logan.ramos"
