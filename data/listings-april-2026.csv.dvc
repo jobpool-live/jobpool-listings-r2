@@ -2,7 +2,7 @@ outs:
   - md5: a9bfa33d68eb98aef84560cfdfd0ceaa
     size: 8425309
     hash: md5
-    path: https://pub-e2c96b2fef074ee0809919335319632f.r2.dev/data/20260424T030907Z-preprod-pool.csv
+    path: https://pub-e2c96b2fef074ee0809919335319632f.r2.dev/listings-april-2026.csv
     meta:
       changed_on: "2026-04-24"
       contributors:
