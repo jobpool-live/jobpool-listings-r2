@@ -1,0 +1,9 @@
+outs:
+  - md5: e0e1c5cdd2aa715c1eee2ab90d0d51b4
+    size: 20887500
+    hash: md5
+    path: https://pub-e2c96b2fef074ee0809919335319632f.r2.dev/listings-july-2026.csv
+    meta:
+      changed_on: "2026-07-01"
+      contributors:
+        - "jobpoolbot1.0"

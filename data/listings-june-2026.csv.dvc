@@ -2,7 +2,7 @@ outs:
   - md5: b0746ea79a6c0885ca5bcca707377cec
     size: 22451345
     hash: md5
-    path: https://pub-e2c96b2fef074ee0809919335319632f.r2.dev/listings-june-2026.csv
+    path: https://pub-e2c96b2fef074ee0809919335319632f.r2.dev/archive/2026/06/listings-june-2026.csv
     meta:
       changed_on: "2026-06-01"
       contributors:
