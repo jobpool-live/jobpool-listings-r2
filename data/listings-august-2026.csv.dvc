@@ -1,0 +1,9 @@
+outs:
+  - md5: 0fc53d36d6f547b89d7a5f51187630a7
+    size: 94106587
+    hash: md5
+    path: https://pub-e2c96b2fef074ee0809919335319632f.r2.dev/listings-august-2026.csv
+    meta:
+      changed_on: "2026-08-01"
+      contributors:
+        - "jobpoolbot1.0"
