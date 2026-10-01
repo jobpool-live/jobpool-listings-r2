@@ -2,8 +2,8 @@ outs:
   - md5: bbdc1bb32956a064f9229e951e502864
     size: 190030857
     hash: md5
-    path: https://pub-e2c96b2fef074ee0809919335319632f.r2.dev/archive/2026/09/listings-september-2026.csv
+    path: https://pub-e2c96b2fef074ee0809919335319632f.r2.dev/listings-october-2026.csv
     meta:
-      changed_on: "2026-09-01"
+      changed_on: "2026-10-01"
       contributors:
         - "jobpoolbot1.0"
