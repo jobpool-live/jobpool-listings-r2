@@ -1,0 +1,9 @@
+outs:
+  - md5: 69f375c74f3dbacd2da53e20d55a8bbc
+    size: 146538316
+    hash: md5
+    path: https://pub-e2c96b2fef074ee0809919335319632f.r2.dev/listings-november-2026.csv
+    meta:
+      changed_on: "2026-11-01"
+      contributors:
+        - "jobpoolbot2.0"
