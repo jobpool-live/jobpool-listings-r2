@@ -1,6 +1,6 @@
 outs:
-  - md5: 69f375c74f3dbacd2da53e20d55a8bbc
-    size: 146538316
+  - md5: a5ad32f10609c2b6459ee071e878923c
+    size: 138039702
     hash: md5
     path: https://pub-e2c96b2fef074ee0809919335319632f.r2.dev/listings-november-2026.csv
     meta:
